@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="KalkulatorKredytowyWeb" />
+        <module name="KalkulatorWebApp" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="KalkulatorKredytowyWeb" target="1.7" />
+      <module name="KalkulatorWebApp" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
